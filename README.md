@@ -1,7 +1,7 @@
 
 # Testing SwagLabs Demo
 
-The purpose of this project is to thoroughly test a saucedemo ecommerce application, focusing on critical functionalities such as login, checkout, database interaction, and the accuracy of the sorting feature. By conducting comprehensive testing.
+The purpose of this project is to thoroughly test the saucedemo ecommerce application, focusing on critical functionalities such as login, checkout, database interaction, and the accuracy of the sorting feature. By conducting comprehensive testing.
 
 ## Objectives
 The primary objectives of this project are as follows:
