@@ -1,0 +1,15 @@
+# Framework
+selenium==4.9.1
+pytest==6.2.5
+
+# Parallel Test
+pytest-xdist==2.4.0
+
+# Report
+pytest-html==3.1.1
+
+# Database Connector
+mysql-connector-python==8.0.33
+
+# Driver Manager
+webdriver-manager==3.5.0
